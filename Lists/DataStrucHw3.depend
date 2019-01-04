@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1537639647 source:c:\users\15yan\documents\fall 2018\data structure\datastruchw3\listdemo.cpp
+	<string>
+	<iostream>
+	"list.h"
+
+1537798607 c:\users\15yan\documents\fall 2018\data structure\datastruchw3\list.h
+	<string>
+
+1537731622 source:c:\users\15yan\documents\fall 2018\data structure\datastruchw3\list.cpp
+	<string>
+	"list.h"
+	<iostream>
+
